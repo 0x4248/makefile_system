@@ -1,0 +1,3 @@
+CONF_ADD = -DADD
+
+CONFIG += $(CONF_ADD)
