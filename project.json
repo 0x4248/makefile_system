@@ -1,0 +1,15 @@
+{
+    "name": "makefile_system",
+    "description": "This is a simple makefile system for C and C++ projects.",
+    "version": "",
+    "main_file": "src/main.c",
+    "author": "Lewis Evans",
+    "license": "GNU General Public License v3.0",
+    "url": "/makefile_system",
+    "email": "none",
+    "languages": [
+        "c",
+        "c++"
+    ],
+    "actions": {}
+}
