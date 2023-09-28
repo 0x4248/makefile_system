@@ -34,3 +34,6 @@ $(OUTPUT): $(SOURCES)
 
 clean:
 	rm -f $(SOURCES:%.c=%.o) $(OUTPUT)
+
+version:
+	@echo $(FULLVERSION)
